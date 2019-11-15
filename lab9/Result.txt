@@ -1,0 +1,53 @@
+Reserving room 503 for I. Joliet -- Confirmation #1 
+    (arriving 12/10/2012, departing 12/15/2012)
+Reserving room 502 for I. Joliet -- Confirmation #2 
+    (arriving 1/10/2013, departing 1/15/2013)
+Reserving room 502 for K. Leavenworth -- Confirmation #3 
+    (arriving 12/10/2012, departing 12/14/2012)
+Reserving room 502 for K. Leavenworth -- Confirmation #4 
+    (arriving 12/10/2013, departing 12/14/2013)
+Reserving room 504 for C. S. Quentin -- Confirmation #5 
+    (arriving 2/15/2013, departing 12/14/2013)
+Number of reservations: 5
+No. Rm. Arrive      Depart     Guest
+------------------------------------------------
+  1 503 12/10/2012 12/15/2012 I. Joliet
+  2 502 1/10/2013 1/15/2013 I. Joliet
+  3 502 12/10/2012 12/14/2012 K. Leavenworth
+  4 502 12/10/2013 12/14/2013 K. Leavenworth
+  5 504 2/15/2013 12/14/2013 C. S. Quentin
+Reservations for room 502:
+    1/10/2013 to  1/15/2013:  I. Joliet
+    12/10/2012 to  12/14/2012:  K. Leavenworth
+    12/10/2013 to  12/14/2013:  K. Leavenworth
+Reservations for room K. Leavenworth:
+    12/10/2012 to  12/14/2012:  room 502
+    12/10/2013 to  12/14/2013:  room 502
+Reservations for room C. S. Quentin:
+    2/15/2013 to  12/14/2013:  room 504
+Guests arriving on 12/10/2012:
+   I. Joliet (room 503)
+   K. Leavenworth (room 502)
+Guests arriving on 12/9/2012:
+Guests departing on 12/14/2013:
+   K. Leavenworth (room 502)
+   C. S. Quentin (room 504)
+Bedrooms free between 12/20/2012 to 12/25/2012:
+   501
+   502
+   503
+   504
+Bedrooms free between 12/12/2012 to 12/20/2012:
+   501
+   504
+Bedrooms free between 12/14/2012 to 12/14/2012:
+   501
+   502
+   504
+Bedrooms occupied between 12/14/2012 to 12/14/2012:
+   503
+Bedrooms occupied between 12/12/2012 to 12/20/2012:
+   502
+   503
+Bedrooms occupied between 12/20/2012 to 12/25/2012:
+Thank you for abusing the Anteater BandB Reservation System!
